@@ -12,7 +12,7 @@ This repository contains projects in the fields of **Machine Learning** and **Co
 
 | 🔢 | 📘 Project Title | 📎 Walkthrough |
 |----|------------------|----------------|
-| **1** | *Normalized Loss Functions for Deep Learning with Noisy Labels* | [Read PDF ➜](./Paper-Paper%20Implementation-%E2%80%9DNormalized%20Loss%20Functions%20for%20Deep%20Learning%20with%20Noisy%20Labels/Walkthrough%20and%20Description.pdf) |
+| **1** | *Paper Implementation-Normalized Loss Functions for Deep Learning with Noisy Labels* | [Read PDF ➜](./Paper-Paper%20Implementation-%E2%80%9DNormalized%20Loss%20Functions%20for%20Deep%20Learning%20with%20Noisy%20Labels/Walkthrough%20and%20Description.pdf) |
 | **2** | *Comparative Study of ML Algorithms for CO₂ Emissions: Trends, Predictions, and Policy Insights* | [Read PDF ➜](./Project-Project-Comparative%20Study%20of%20Machine%20Learning%20Algorithms%20for%20CO%E2%82%82%20Emissions:%20Trends,%20Predictions,%20and%20Policy%20Insights/Walkthrough%20and%20Description.pdf) |
 
 ---
